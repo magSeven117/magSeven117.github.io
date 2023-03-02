@@ -1,0 +1,32 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.classcentral.com	TRUE	/report/	FALSE	1999999999	ppwp_wp_session	0deee67a78b143ff1fba45bc52e87639%7C%7C1677625131%7C%7C1677624771
+www.classcentral.com	TRUE	/	FALSE	1999999999	PHPSESSID	lnh77c2s9upt9ddfco1l1fn3dk
+www.classcentral.com	TRUE	/	FALSE	1999999999	samesite	lax
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=VGST00:s=V:r=V:a=V:p=V:g=2926:u=1:x=1:i=1677623153:t=1677709553:v=2:sig=AQG-GiGkhCaw1g7DfGoJOE1Rxd-Z0cys"
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	VpGeV4d62epOi%2B8velucCNixgzQW%2B9XKgi4x5rYZOzGxdV6idlT%2BWWFWqEu59rWs0HNgzxfkS5H6E09Z9mbNsd9DVm1kSR%2FwKHE%2Fr0GXCCFX7dMLzwyswNun6%2BlHQXfdiKCCAA6Vw6j4Vkomjn7U8Gv4YhpJUno3gBlLhLZ%2B1zwH7G7pGRC3cw7b%2F%2FeNyJpfRgkg0SDgZEwntnqpqwuN2fyYaYd91nwrWzfk1vFCjd0sXOZ8qPE5D1J13eg5gwN4BlFfcyRRmQn0bcCdY4kv5g%3D%3D--HVC8LBYeFD1l7PY4--EfCBjneSwiWMzP2IUcZWgw%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1339692727.1677623154
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	smOxHQbAE6RgMXOCoVuzsTu1cUrurFS5MF1_nlBMt.o-1677623163-0-AWncPFPppU3dNa+L8uqynguFJxhik1t0dGk82W772B+cbrVz/Vsl6WbkCQio5QNYnapPUU1b+lQjOnl3YKfoviU=
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	trkCode	gf
+www.linkedin.com	TRUE	/	FALSE	1999999999	trkInfo	AQHAcGEUEHt4MgAAAYaaJMsg3QJXfSIa17LjUJfedB_zsV-4vKZ612qyX3AmdvmQOP2-hpImj7Z5ZKufH8eZnByVXvM74ALrsjaRJq46n6z2azb3UnuUwop0nHcjRj7TJ2zzx-k=
+.linkedin.com	TRUE	/	FALSE	1999999999	rtc	AQEEBFKciT6QMwAAAYaaJMsg0TZ1powI-5W6-bGbcdDk6F19Prd4A1CLJmL831rEjwO_TUDBlCk-HHPnAOmn9v-z7pSuZqbdMydp98QIYo6LAoyld1_xKLdsIWkI-suuZUXlG7ZP7h6ugBqdMxOpL10CgnlSyXqQdSJiUT7rs052N0SCVAKIfHiEOnzhquaX_Y5VsmquGUrdktEt-o3DEID5W2OqQnpm2PVcy-6l4OT9X_UJjC-JP6bvMvkoOcSEyg==
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	UuHE_e74Kx4
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	j68MG5sjjIw
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.facebook.com	TRUE	/	FALSE	1999999999	sb	QYD-Y8eg8AeD2cjCy-BDsnBp
+.twitter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167762336614771350
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167762336614771350
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_3SO1wIaB7P6Ho4fw/lyTxg=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167762336614771350
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&063c5538-330f-4850-8244-5765091a89a5"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20230228222927bf4aa983-aae8-49d6-8618-f2fce2d7da51AQFzQXE5DiD7-7TWY3y6jHaDwSwzZGJg"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+
